@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T09:56:15.914Z" agent="5.0 (Windows)" etag="2kPq4Y_ImPVsZk1Ck7Ah" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T10:08:34.792Z" agent="5.0 (Windows)" etag="azN5ap17uqVpQ7DWdKlF" version="16.2.6" type="github">
   <diagram id="BI8w3BGmBCHJOKzL8B9z" name="Page-1">
     <mxGraphModel dx="2324" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,6 +451,18 @@
         </mxCell>
         <mxCell id="g2wj14SjMEPgWQTsYQ4h-44" value="Атакующий = защитник" style="whiteSpace=wrap;html=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
           <mxGeometry y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g2wj14SjMEPgWQTsYQ4h-49" value="Классы" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="30" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g2wj14SjMEPgWQTsYQ4h-50" value="Игрок" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="g2wj14SjMEPgWQTsYQ4h-49">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g2wj14SjMEPgWQTsYQ4h-51" value="Колода" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="g2wj14SjMEPgWQTsYQ4h-49">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g2wj14SjMEPgWQTsYQ4h-52" value="Карта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="g2wj14SjMEPgWQTsYQ4h-49">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
