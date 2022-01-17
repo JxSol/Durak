@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T19:17:23.874Z" agent="5.0 (Windows)" etag="p1O_bb-sviM5Ml13Vbfu" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T15:50:17.060Z" agent="5.0 (Windows)" etag="eonSItGaHuQW4qLjEPbw" version="16.2.7" type="github">
   <diagram id="BI8w3BGmBCHJOKzL8B9z" name="Page-1">
-    <mxGraphModel dx="1229" dy="2343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,7 +235,7 @@
         <mxCell id="aiTUswQd_2AmqP7GQfqm-73" value="Объявление дурака" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="360" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="aiTUswQd_2AmqP7GQfqm-77" target="b13NG2-e2DmoZsSMI3Fe-5">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="aiTUswQd_2AmqP7GQfqm-77" target="b13NG2-e2DmoZsSMI3Fe-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-77" value="У кого нет карт выходит из игры" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
@@ -245,11 +245,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-81" value="Выбор карты с руки" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="-170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=default;entryX=0;entryY=0;entryDx=120;entryDy=30;entryPerimeter=0;" parent="1" source="aiTUswQd_2AmqP7GQfqm-85" target="aiTUswQd_2AmqP7GQfqm-96" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-230" y="-80" as="targetPoint" />
+            <mxPoint x="-230" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-93" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="aiTUswQd_2AmqP7GQfqm-92" vertex="1" connectable="0">
@@ -257,13 +257,13 @@
             <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aiTUswQd_2AmqP7GQfqm-85" value="&lt;div&gt;Проверка: есть ли карты с такой ценой в выбранных или на столе&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="-90" width="120" height="60" as="geometry" />
+        <mxCell id="aiTUswQd_2AmqP7GQfqm-85" value="&lt;div&gt;Проверка: есть ли карты с такой ценой на столе&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-88" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aiTUswQd_2AmqP7GQfqm-85" target="aiTUswQd_2AmqP7GQfqm-90" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-160" y="-10" as="sourcePoint" />
-            <mxPoint x="-60" y="-10" as="targetPoint" />
+            <mxPoint x="-160" y="-60" as="sourcePoint" />
+            <mxPoint x="-60" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-89" value="Да" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" parent="aiTUswQd_2AmqP7GQfqm-88" connectable="0" vertex="1">
@@ -274,14 +274,14 @@
         <mxCell id="aiTUswQd_2AmqP7GQfqm-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;strokeColor=default;" parent="1" source="aiTUswQd_2AmqP7GQfqm-90" target="g2wj14SjMEPgWQTsYQ4h-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aiTUswQd_2AmqP7GQfqm-90" value="Карта добавляется в выбранные" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="-200" width="120" height="60" as="geometry" />
+        <mxCell id="aiTUswQd_2AmqP7GQfqm-90" value="Карта добавляется на стол" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;strokeColor=default;" parent="1" source="aiTUswQd_2AmqP7GQfqm-96" target="aiTUswQd_2AmqP7GQfqm-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-96" value="В данный момент эту карту нельзя использовать" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;position2=0.75;size=10;position=0.75;base=20;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="-90" width="120" height="70" as="geometry" />
+          <mxGeometry x="-360" y="-140" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;strokeColor=default;" parent="1" source="aiTUswQd_2AmqP7GQfqm-100" target="aiTUswQd_2AmqP7GQfqm-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -291,22 +291,18 @@
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aiTUswQd_2AmqP7GQfqm-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=default;" parent="1" source="aiTUswQd_2AmqP7GQfqm-100" target="aiTUswQd_2AmqP7GQfqm-105" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aiTUswQd_2AmqP7GQfqm-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aiTUswQd_2AmqP7GQfqm-100" target="aiTUswQd_2AmqP7GQfqm-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-107" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="aiTUswQd_2AmqP7GQfqm-106" vertex="1" connectable="0">
           <mxGeometry x="-0.28" relative="1" as="geometry">
-            <mxPoint y="2" as="offset" />
+            <mxPoint x="-6" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aiTUswQd_2AmqP7GQfqm-100" value="Вопрос: выбрать ещё карту?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aiTUswQd_2AmqP7GQfqm-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;strokeColor=default;" parent="1" source="aiTUswQd_2AmqP7GQfqm-105" target="aiTUswQd_2AmqP7GQfqm-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aiTUswQd_2AmqP7GQfqm-105" value="Выбранные карты перемещаются на стол" style="whiteSpace=wrap;html=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g2wj14SjMEPgWQTsYQ4h-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g2wj14SjMEPgWQTsYQ4h-2" target="g2wj14SjMEPgWQTsYQ4h-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -314,7 +310,7 @@
         <mxCell id="g2wj14SjMEPgWQTsYQ4h-2" value="Выбор неотбитой карты" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="-200" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g2wj14SjMEPgWQTsYQ4h-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g2wj14SjMEPgWQTsYQ4h-3" target="aiTUswQd_2AmqP7GQfqm-100" edge="1">
+        <mxCell id="g2wj14SjMEPgWQTsYQ4h-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BHR2KTapGVIM--6FxwBh-3" target="aiTUswQd_2AmqP7GQfqm-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g2wj14SjMEPgWQTsYQ4h-5" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g2wj14SjMEPgWQTsYQ4h-4" vertex="1" connectable="0">
@@ -322,16 +318,18 @@
             <mxPoint x="1" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g2wj14SjMEPgWQTsYQ4h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g2wj14SjMEPgWQTsYQ4h-3" target="aiTUswQd_2AmqP7GQfqm-105" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g2wj14SjMEPgWQTsYQ4h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="g2wj14SjMEPgWQTsYQ4h-3" target="aiTUswQd_2AmqP7GQfqm-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-200" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g2wj14SjMEPgWQTsYQ4h-7" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g2wj14SjMEPgWQTsYQ4h-6" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint y="-145" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g2wj14SjMEPgWQTsYQ4h-3" value="Проверка: карт в выбранных + неотбитых меньше, чем карт у защитника?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="g2wj14SjMEPgWQTsYQ4h-3" value="Проверка: неотбитых карт меньше, чем карт у защитника?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g2wj14SjMEPgWQTsYQ4h-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g2wj14SjMEPgWQTsYQ4h-8" target="g2wj14SjMEPgWQTsYQ4h-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -412,7 +410,7 @@
         <mxCell id="g2wj14SjMEPgWQTsYQ4h-25" value="Вопрос: будет ли игрок отбиваться?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="-200" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g2wj14SjMEPgWQTsYQ4h-28" target="b13NG2-e2DmoZsSMI3Fe-1">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g2wj14SjMEPgWQTsYQ4h-28" target="b13NG2-e2DmoZsSMI3Fe-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g2wj14SjMEPgWQTsYQ4h-28" value="Карты со стола перемещаются к защитнику" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
@@ -469,7 +467,7 @@
         <mxCell id="Athd8CU3PFZH-CcxlE0j-1" value="&lt;div&gt;Помощник:&lt;/div&gt;&lt;div&gt;показывать какие карты можно использовать;&lt;/div&gt;&lt;div&gt;автоматически забирать карты, если нечем бить;&lt;/div&gt;&lt;div&gt;выбирать карту для битья, если она одна&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;spacing=50;" parent="1" vertex="1">
           <mxGeometry x="10" y="-20" width="320" height="208" as="geometry" />
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="b13NG2-e2DmoZsSMI3Fe-1" target="aiTUswQd_2AmqP7GQfqm-54">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="b13NG2-e2DmoZsSMI3Fe-1" target="aiTUswQd_2AmqP7GQfqm-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-460" y="980" />
@@ -478,33 +476,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-1" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Атакующий = следующий после защитника&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Защитник = следующий после атакующего&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-1" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Атакующий = следующий после защитника&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Защитник = следующий после атакующего&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-520" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="b13NG2-e2DmoZsSMI3Fe-5" target="aiTUswQd_2AmqP7GQfqm-72">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="b13NG2-e2DmoZsSMI3Fe-5" target="aiTUswQd_2AmqP7GQfqm-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-8" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="b13NG2-e2DmoZsSMI3Fe-7">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-8" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="b13NG2-e2DmoZsSMI3Fe-7" vertex="1" connectable="0">
           <mxGeometry x="-0.2429" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="b13NG2-e2DmoZsSMI3Fe-5" target="aiTUswQd_2AmqP7GQfqm-73">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="b13NG2-e2DmoZsSMI3Fe-5" target="aiTUswQd_2AmqP7GQfqm-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-10" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="b13NG2-e2DmoZsSMI3Fe-9">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-10" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="b13NG2-e2DmoZsSMI3Fe-9" vertex="1" connectable="0">
           <mxGeometry x="-0.8446" y="1" relative="1" as="geometry">
             <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-5" value="Проверка: осталось больше двух игроков?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-5" value="Проверка: осталось больше двух игроков?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
           <mxGeometry x="160" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-12" value="Настроить язык" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;spacing=50;" vertex="1" parent="1">
+        <mxCell id="b13NG2-e2DmoZsSMI3Fe-12" value="Настроить язык" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;spacing=50;" parent="1" vertex="1">
           <mxGeometry x="210" y="-104" width="166" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="b13NG2-e2DmoZsSMI3Fe-17" value="Атакуя можно подкинуть что угодно" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="-20" width="120" height="60" as="geometry" />
+        <mxCell id="BHR2KTapGVIM--6FxwBh-1" value="&lt;div&gt;Баг:&lt;/div&gt;&lt;div&gt;иногда, после указания кол-ва игроков, игра вылетает с ошибкой о рекурсиях&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BHR2KTapGVIM--6FxwBh-3" value="Проверка: есть ли карты, которые можно подкинуть?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;spacing=2;spacingLeft=10;spacingRight=10;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BHR2KTapGVIM--6FxwBh-6" value="&lt;div&gt;Баг:&lt;/div&gt;&lt;div&gt;невозможно отбиться&lt;/div&gt;&lt;div&gt;в некоторых случаях&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
